@@ -1,4 +1,8 @@
 # Chatliepy-bulk-community-chatting-media
+
+![Weather App Screenshot](src/assets/img/weather.png)
+
+
 Welcome to our Real-Time Bulk Community Chatting App! This application is built using React and Next.js, styled with Ant Design, and powered by ChatEngine.io to provide a seamless and interactive chatting experience for large communities.
 
 ## Features
